@@ -1,0 +1,15 @@
+The first mistake I saw and corrected was that employee first name was typed twice.
+I then looked at it piece by piece but was getting so confused so I decided to comment out the old code and
+rewrite it myself.
+I was stuck for a long time trying to remember the correct syntax so I did look up on google and W3 schools 
+helped a lot. 
+
+That's where I saw that middle name only checks if the middle name is not null but not for empty strings adding 
+extra spaces
+
+this is also when I realized that salary numbers were written as a string or as a number so that had to fixed 
+I was stuck here for a while because I was wondering how do I change what they are without being allowed to
+change the main.js file so I googled for examples and found toString() and how it converts an int to a string
+after that it took me awhile figuring how to write the code properly and I struggled with this for a long time
+because I forgot about | and some other typos. 
+doing this made it clear I need more practice writing code and with remembering key expressions and operators.
